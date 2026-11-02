@@ -72,3 +72,5 @@ footer a { color: var(--muted); }
 .buy:hover { filter: brightness(1.1); }
 .more { color: var(--muted); margin-top: 22px; }
 @media (max-width: 420px) { .books { grid-template-columns: 1fr; } .book .cover { width: 104px; height: 135px; } .book { gap: 14px; } }
+.hero-buttons .button { display: inline-flex; align-items: center; gap: 10px; }
+.hero-buttons .ico { width: 20px; height: 20px; fill: currentColor; flex: none; }
