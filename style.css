@@ -75,3 +75,6 @@ footer a { color: var(--muted); }
 .hero-buttons .button { display: inline-flex; align-items: center; gap: 10px; }
 .hero-buttons .ico { width: 20px; height: 20px; fill: currentColor; flex: none; }
 .book.free .cover img { background: #fff; }
+.mal-logo { display: inline-flex; align-items: center; gap: 10px; }
+.mal-logo img { width: 44px; height: 44px; border-radius: 10px; display: block; }
+.hero-logo { width: 120px; height: 120px; border-radius: 24px; display: block; margin: 0 0 18px; box-shadow: 0 8px 24px rgba(0,0,0,.4); }
